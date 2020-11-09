@@ -1,3 +1,2 @@
-function add(number,number1){
-    return number+ number1;
-}
+let suma = (a,b) => (a + b); 
+let resta = (a,b) => (a - b);
